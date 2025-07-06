@@ -3,7 +3,7 @@
 **COMPANY:** CODTECH IT SOLUTIONS  
 **NAME:** PATEL CHARU MUKESHBHAI  
 **INTERN ID:** CITSOD254  
-**DOMAIN:** CYBERSECURITY – PYTHON BASED PROJECT  
+**DOMAIN:** CYBER SECURITY AND ETHICAL HACKING  
 **DURATION:** 4 WEEKS  
 **MENTOR:** NEELA SANTOSH
 
@@ -91,5 +91,5 @@ This toolkit enhanced my practical skills in ethical hacking. It builds a strong
 
 ## 💻 OUTPUT
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dd3acea3-7c8a-43e5-89dd-78a94c238218" />
 
