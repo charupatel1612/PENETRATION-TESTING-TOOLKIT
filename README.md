@@ -86,3 +86,11 @@ Follow these steps to perform the practical:
 ## ✅ CONCLUSION
 
 This toolkit enhanced my practical skills in ethical hacking. It builds a strong base in penetration testing and Python automation for security tasks.
+
+---
+
+## 💻 OUTPUT
+
+
+
+
