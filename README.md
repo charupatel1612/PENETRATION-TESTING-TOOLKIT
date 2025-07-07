@@ -52,9 +52,9 @@ Follow these steps to perform the practical:
    - `brute_forcer_module.py`
    - `password.txt` (contains a list of sample passwords)
 
-3. **Open the `main_toolkit.py` file** using IDEL (Python's integrated development environment).
+3. **Open the `main_toolkit.py` file** using IDLE (Python's integrated development environment).
 
-4. **Run the script** by pressing `F5` or selecting `Run > Run Module` from the IDEL menu.
+4. **Run the script** by pressing `F5` or selecting `Run > Run Module` from the IDLE menu.
 
 5. **When prompted, you will see a menu:**
      1. Port Scanner
