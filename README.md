@@ -11,7 +11,7 @@
 
 ## 📄 PROJECT DESCRIPTION
 
-This is a **Python-based Penetration Testing Toolkit** built using **IDEL**. It simulates basic tasks like **port scanning** and **brute-force attacks** to help understand how attackers probe systems. It supports ethical hacking and network security learning.
+This is a **Python-based Penetration Testing Toolkit** built using **IDLE**. It simulates basic tasks like **port scanning** and **brute-force attacks** to help understand how attackers probe systems. It supports ethical hacking and network security learning.
 
 Each tool runs individually based on the user’s selection from a simple menu.
 
@@ -36,7 +36,7 @@ Each tool runs individually based on the user’s selection from a simple menu.
 
 - Python 3.9+
 - socket, time, os, sys
-- IDEL (Python IDE)
+- IDLE (Python IDE)
 
 ---
 
